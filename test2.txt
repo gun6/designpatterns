@@ -1,0 +1,1 @@
+Ik ken het Decorator Pattern, dus ik ben de baas!
